@@ -1,0 +1,5 @@
+[
+  { "name": "美食地图", "url": "https://foodmap.misakae.live", "desc": "共享美食坐标地图" },
+  { "name": "React", "url": "https://react.dev", "desc": "前端框架" },
+  { "name": "Next.js", "url": "https://nextjs.org", "desc": "React 全栈框架" }
+]
