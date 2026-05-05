@@ -85,9 +85,6 @@ export default async function Page({
 
 	const detail = await fetchEntry({
 		id: spId,
-		title: spTitle,
-		date: spDate,
-		link: spLink,
 	});
 
 	const title = detail?.title ?? fallbackTitle;
