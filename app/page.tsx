@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
 const HOME = {
 	name: "MisakaE",
-	tagline: "在0和1之间构建世界",
+	tagline: "「在0和1之间构建世界」",
 	subtitle: "XCPC / CTF / NUEDC",
 	avatar: "/head.jpg",
 	bg: "/99605266_p0_low.jpg",
